@@ -1,7 +1,9 @@
 # Digital Forensics — Foundational Concepts
 
 This is my documentation of the core concepts from my Digital Forensics learning and a reference I can come back to later.
+
 Source: Cybrary — Digital Forensics Skill Path
+
 Status: Completed
 
 ## 🗺️ Topics Covered & Folder Map
