@@ -22,4 +22,4 @@ Status: Completed
 * **Investigation vs. Examination:** Macroscopic strategy vs. microscopic task execution.
 * **The Objectivity Metric:** A matrix breakdown of how to report artifacts accurately without injecting subjective bias.
 * **The Interpol Lifecycle:** The cyclical, 5-step process
-* **Defensive Tactics:** A look at how forensic skills counter **MITRE ATT&CK Tactic TA0005 (Defense Evasion)**.
+* **Defensive Tactics:** A look at how forensic skills counter **MITRE ATTACK Tactic TA0005 (Defense Evasion)**.
